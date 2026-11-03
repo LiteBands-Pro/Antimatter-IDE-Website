@@ -1,21 +1,28 @@
-MIT License
+Antimatter Website License (source-available, improvement-only)
 
-Copyright (c) 2026 Comical Softwares
+Copyright (c) 2026 Comical Softwares. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license covers the Antimatter website: its HTML, CSS, JavaScript, design,
+text and bundled assets. It does NOT cover the Antimatter IDE, which is
+licensed separately under the MIT License, or third-party material such as
+the GitHub wiki text, which belongs to its respective owners.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Permitted use. You may view this source and clone or fork it only for the
+   purpose of proposing improvements to the Antimatter website (for example
+   bug reports, issues and pull requests sent to Comical Softwares).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Contributions. Anything you submit as an improvement may be used, modified
+   and distributed by Comical Softwares as part of the website, without
+   payment or attribution, and you confirm you have the right to submit it.
+
+3. Not permitted. Without prior written permission from Comical Softwares you
+   may not use, run, host, copy, modify, republish, redistribute, sublicense
+   or sell the website or any part of it for any other purpose. This includes
+   private or personal use, use on your own sites or projects, and use as a
+   template or base for another website.
+
+4. No warranty. The website is provided "AS IS", without warranty of any kind.
+   Comical Softwares is not liable for any claim or damages arising from it.
+
+5. Termination. Any use outside this license ends your permission to use the
+   source.
